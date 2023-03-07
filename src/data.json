@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "Anuj",
+    "Category": "Phone",
+    "Price": "100",
+    "Quality": "5"
+  },
+  {
+    "Name": "Ravi",
+    "Category": "Phone",
+    "Price": "87",
+    "Quality": "7"
+  },
+  {
+    "Name": "Arbaz",
+    "Category": "TV",
+    "Price": "8700",
+    "Quality": "2"
+  },
+  {
+    "Name": "Dummy",
+    "Category": "Dummy",
+    "Price": "8700",
+    "Quality": "10"
+  }
+]
